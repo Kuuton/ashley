@@ -1,0 +1,45 @@
+body{
+	background-color:#66d9ff;
+	
+	font-family: Impact;
+	
+	line-height: 1.6em;
+
+	width: 80%;
+	
+	margin:auto;
+	
+	text-align:center;
+}
+
+nav{
+	font-weight: 800;
+	
+	font-family: Impact;
+	
+	font-style: italic;
+	
+	letter-spacing: 0.2em;
+	
+	word-spacing: 1em;
+	
+	text-transform: uppercase;
+}
+
+.hi{
+	color:crimson;
+}
+
+a:hover{
+	color:red;
+}
+
+a:active{
+	color:green;
+}
+
+
+footer{
+	background-color:blue;
+	color: white;
+}
